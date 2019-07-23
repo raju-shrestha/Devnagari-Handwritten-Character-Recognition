@@ -1,0 +1,3 @@
+# Patika 
+
+Nepali Character Recognition

@@ -1,3 +1,3 @@
-# Patika 
+# Pati
 
 Nepali Character Recognition
